@@ -3,6 +3,10 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("--------------------------------------------------")
+	fmt.Println("Cool new features!")
+	fmt.Println("--------------------------------------------------")
+
 	recursionFTW(12)
 }
 
